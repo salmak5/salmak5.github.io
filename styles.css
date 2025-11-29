@@ -1,10 +1,8 @@
-
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
-
 
 body {
   font-family: "Poppins", sans-serif;
@@ -21,7 +19,6 @@ a {
 a:hover {
   color: #005f99;
 }
-
 
 .navbar {
   display: flex;
@@ -49,7 +46,6 @@ a:hover {
   display: flex;
   gap: 1.5rem;
 }
-
 
 .hero {
   text-align: center;
@@ -79,7 +75,6 @@ a:hover {
   background-color: #ff5252;
 }
 
-
 .about {
   padding: 4rem 2rem;
   max-width: 800px;
@@ -90,7 +85,6 @@ a:hover {
   color: #007acc;
   margin-bottom: 1rem;
 }
-
 
 .projects {
   padding: 4rem 2rem;
@@ -127,7 +121,6 @@ a:hover {
   padding: 0 1rem 1rem;
 }
 
-
 .contact {
   text-align: center;
   padding: 4rem 2rem;
@@ -137,11 +130,9 @@ a:hover {
   margin-bottom: 1rem;
 }
 
-
 footer {
   text-align: center;
   padding: 1.5rem;
   background-color: #007acc;
   color: white;
 }
-
